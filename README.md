@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fadik1 (Fadi Katto). I am an electrical enginginner from the University of Calgary. I enjoy coding and learning about new technolgies.
+- 👋 Hi, I’m @fadik1 (Fadi Katto). I am an electrical engineer from the University of Calgary. I enjoy coding and learning about new technolgies.
 - 👀 I’m interested in Machine Learning, Data Science and Web Development 
 - 🌱 I’m currently learning Front-end development
 - 💞️ I’m looking to collaborate on ...
